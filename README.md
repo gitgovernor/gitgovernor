@@ -24,3 +24,8 @@ The GitGovernor use Git over Multiple Platforms github, custom, bitbucket, gitla
 | Resources| | | Optional Resources/Dependency Manager (If you need to buy Licences Outside)
 | Hosting | | | 
 | Platforms 
+| AuthManager |
+| Migrations |
+
+https://gitlab.com/gitlab-org/gitlab-shell
+
